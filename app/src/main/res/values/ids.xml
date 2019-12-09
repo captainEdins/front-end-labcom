@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="repair_fab" type="id" />
+    <item name="delivery_fab" type="id" />
+    <item name="order_fab" type="id" />
+
+
+</resources>
